@@ -1,0 +1,26 @@
+#navbar {
+    display: grid;
+    grid-gap: 15px;
+    padding: 10px;
+    position:fixed;
+    width: 180px;
+    border:1px solid black; 
+  }
+  
+  #main-doc{
+    padding-left:210px;
+    background-color:#99ccff;
+    border-style: solid;
+  }
+  code{
+    background-color:#CCC;
+    display:block;
+    padding:20px;
+  }
+  
+  
+  @media(max-width: 400px) {
+   
+  }
+   
+    
